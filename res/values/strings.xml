@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListView-Custom-BaseAdapter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+     <string-array name="company">
+       <item >Microsoft</item>
+       <item >Google</item>
+       <item >Yahoo</item>
+       <item >Intel</item>
+       <item >Apple</item>
+       <item >Hp</item>
+       <item >Sony</item>
+   </string-array>
+   
+   <string-array name="ceos">
+       <item >Satya Nadella</item>
+       <item >Sundar Pichai</item>
+       <item >Marissa Mayer</item>
+       <item >Brian Krzanich</item>
+       <item >Tim Cook</item>
+       <item >Meg Whitman</item>
+       <item >Kazuo Hirai</item>
+   </string-array>
+</resources>
